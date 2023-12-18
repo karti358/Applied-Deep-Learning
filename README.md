@@ -39,7 +39,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 
 ## Part II Topics (Spring Semester)
 
-* Natural Language Processing
+* Natural Language Processing - Done
   * Word Representations ([Lecture Notes](02%20-%20Natural%20Language%20Processing/01%20-%20Word%20Representations.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNmUtcQuVlcAMMpGxkJG3rp-))
   * Text Classification ([Lecture Notes](02%20-%20Natural%20Language%20Processing/02%20-%20Text%20Classification.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnfXd5mAsQlaD-NGQS0r4_2))
   * Neural Machine Translation ([Lecture Notes](02%20-%20Natural%20Language%20Processing/03%20-%20Neural%20Machine%20Translation.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlYq4uIDkbluDVa8_y2obh_))
